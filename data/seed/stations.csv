@@ -1,0 +1,5 @@
+station_name,description,must_has_machines
+Component Feeding,Component feeder station with automated setup,1
+CNC Machining,Precision CNC milling and turning center,1
+Final Assembly,Component assembly and integration station,1
+Quality Assurance,Final inspection and testing lab,0

@@ -1,0 +1,13 @@
+station_id,process_name,process_code,description,cycle_time_minutes,sequence_order
+1,Material Layup,CF-LAYUP,Manual composite layup process,45,1
+1,Autoclave Curing,CF-CURE,High-pressure curing in autoclave,180,2
+1,Trimming,CF-TRIM,Edge trimming and surface prep,30,3
+2,3-Axis Milling,CNC-MILL3,Precision 3-axis milling operation,60,1
+2,5-Axis Milling,CNC-MILL5,Complex 5-axis contouring,90,2
+2,Deburring,CNC-DEBUR,Automated deburring process,20,3
+3,Sub-Assembly,ASM-SUB,Component sub-assembly,40,1
+3,Final Assembly,ASM-FINAL,Final product assembly,60,2
+3,Torque Application,ASM-TORQUE,Fastener torque verification,15,3
+4,Dimensional Inspection,QA-DIM,CMM dimensional verification,30,1
+4,Functional Testing,QA-FUNC,Product functional testing,45,2
+4,Final Documentation,QA-DOC,Quality documentation review,15,3

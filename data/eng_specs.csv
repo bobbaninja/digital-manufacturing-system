@@ -1,3 +1,0 @@
-part_number,process_step,lower_limit,upper_limit
-P-9001,Autoclave_Cure,175,190
-P-9002,CNC_Milling,0.35,0.45

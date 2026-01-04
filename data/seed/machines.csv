@@ -1,0 +1,31 @@
+station_id,machine_code,machine_name,brand,status
+1,COMP-A01,Component Feeder A01,Yamaha,Active
+1,COMP-A02,Component Feeder A02,Yamaha,Active
+1,COMP-A03,Component Feeder A03,Yamaha,Active
+1,COMP-B01,Component Feeder B01,Fuji,Active
+1,COMP-B02,Component Feeder B02,Fuji,Active
+1,COMP-B03,Component Feeder B03,Fuji,Active
+1,COMP-C01,Component Feeder C01,Samsung,Active
+1,COMP-C02,Component Feeder C02,Samsung,Active
+1,COMP-C03,Component Feeder C03,Samsung,Active
+1,COMP-C04,Component Feeder C04,Samsung,Active
+2,CNC-M01,CNC Mill #01,Haas,Active
+2,CNC-M02,CNC Mill #02,Haas,Active
+2,CNC-M03,CNC Mill #03,Haas,Active
+2,CNC-M04,CNC Mill #04,DMG Mori,Active
+2,CNC-M05,CNC Mill #05,DMG Mori,Active
+2,CNC-M06,CNC Mill #06,DMG Mori,Active
+2,CNC-T01,CNC Turn #01,Mazak,Active
+2,CNC-T02,CNC Turn #02,Mazak,Active
+2,CNC-T03,CNC Turn #03,Mazak,Active
+2,CNC-T04,CNC Turn #04,Okuma,Active
+3,ASM-S01,Assembly Station S01,Universal Robots,Active
+3,ASM-S02,Assembly Station S02,Universal Robots,Active
+3,ASM-S03,Assembly Station S03,Universal Robots,Active
+3,ASM-S04,Assembly Station S04,Fanuc,Active
+3,ASM-S05,Assembly Station S05,Fanuc,Active
+3,ASM-S06,Assembly Station S06,ABB,Active
+3,ASM-S07,Assembly Station S07,ABB,Active
+3,ASM-S08,Assembly Station S08,KUKA,Active
+3,ASM-S09,Assembly Station S09,KUKA,Active
+3,ASM-S10,Assembly Station S10,KUKA,Active

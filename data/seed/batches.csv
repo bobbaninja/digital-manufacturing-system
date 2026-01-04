@@ -1,0 +1,5 @@
+batch_number,product_id,current_station_id,quantity_planned,quantity_completed,status
+BATCH-2025-001,1,1,50,45,In Progress
+BATCH-2025-002,2,1,30,30,Completed
+BATCH-2025-003,1,2,40,20,In Progress
+BATCH-2025-004,2,4,25,25,Completed

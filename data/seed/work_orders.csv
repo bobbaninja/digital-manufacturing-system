@@ -1,0 +1,5 @@
+work_order_number,batch_id,line_id,scheduled_date,status,notes
+WO-2024-001,1,1,2024-01-15,Completed,Standard production run
+WO-2024-002,2,2,2024-01-15,Completed,High priority order
+WO-2024-003,3,3,2024-01-16,Completed,Regular batch
+WO-2024-004,4,1,2024-01-16,Scheduled,Pending start

@@ -1,0 +1,17 @@
+username,email,role_id
+admin,admin@manufacturing.local,1
+alice_smith,alice.smith@manufacturing.local,2
+bob_jones,bob.jones@manufacturing.local,3
+carol_white,carol.white@manufacturing.local,4
+david_brown,david.brown@manufacturing.local,5
+emma_davis,emma.davis@manufacturing.local,5
+frank_miller,frank.miller@manufacturing.local,5
+grace_wilson,grace.wilson@manufacturing.local,5
+henry_moore,henry.moore@manufacturing.local,5
+iris_taylor,iris.taylor@manufacturing.local,5
+jack_anderson,jack.anderson@manufacturing.local,5
+kelly_thomas,kelly.thomas@manufacturing.local,5
+leo_jackson,leo.jackson@manufacturing.local,5
+maria_white,maria.white@manufacturing.local,5
+nancy_harris,nancy.harris@manufacturing.local,5
+oliver_martin,oliver.martin@manufacturing.local,5
